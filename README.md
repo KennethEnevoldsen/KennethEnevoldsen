@@ -25,4 +25,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/kennethcenevoldsen@gmail.com"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="kennethcenevoldsen@gmail.com" /></a></p><br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kennethcenevoldsen&show_icons=true&locale=en" alt="kennethcenevoldsen" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kennethenevoldsen&show_icons=true&locale=en" alt="kennethcenevoldsen" /></p>
