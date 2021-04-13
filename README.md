@@ -5,8 +5,6 @@
 
 - 👨‍💻 All of my projects are available at [www.kennethenevoldsen.com](www.kennethenevoldsen.com)
 
-- 📝 I regularly write articles on [Low-resource NLP, Digital Humanities and Statistical Learning](Low-resource NLP, Digital Humanities and Statistical Learning)
-
 - 📫 How to reach me **Kennethcenevoldsen@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
