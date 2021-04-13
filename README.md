@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Kenneth Enevoldsen</h1>
-<h3 align="center">A PhD student working on Multimodal Representation Learning at Aarhus University</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
