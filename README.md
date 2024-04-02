@@ -34,7 +34,10 @@ A selection of contributions to open-source libraries, besides the ones to which
 | Library | Contribution |
 | - | - |
 | [Transformers]([https://github.com/koaning/embetter](https://github.com/huggingface/transformers)) | [Multiple bugfixes for training masked language models using flax](https://github.com/huggingface/transformers/pull/17203) |
-| **SpaCy core libraries** |  |
+| **SpaCy core libraries:** |  |
 | spacy-transformers | [Allow passing arguments to the transformer backend and forward](https://github.com/explosion/spacy-transformers/pull/268) |
 | confection | [Fixed issue where config where could not be filled ](https://github.com/explosion/confection/pull/53) |
 | spacy-curated-transformers | [Added support for ELECTRA tokenizers](https://github.com/explosion/spacy-curated-transformers/pull/28) |
+| curated-transformers | [Added ELECTRA](https://github.com/explosion/curated-transformers/pull/358#issuecomment-2031974751) | 
+
+
