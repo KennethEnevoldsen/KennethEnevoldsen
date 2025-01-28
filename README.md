@@ -41,5 +41,5 @@ A selection of contributions to open-source libraries, besides the ones to which
 | confection | [Fixed issue where config where could not be filled ](https://github.com/explosion/confection/pull/53) |
 | spacy-curated-transformers | [Added support for ELECTRA tokenizers](https://github.com/explosion/spacy-curated-transformers/pull/28) |
 | curated-transformers | [Added ELECTRA](https://github.com/explosion/curated-transformers/pull/358#issuecomment-2031974751) | 
-
+| spacy-lookup-data | [Added Danish Lexeme probabilities](https://github.com/explosion/spacy-lookups-data/pull/47)  | 
 
